@@ -1,0 +1,15 @@
+/*
+!/.gitignore
+!/README.md
+!/八大行星/
+!/土星样章/
+.DS_Store
+__pycache__/
+*.pyc
+.env*
+*api.rtf
+*secret*
+*credentials*
+精简前备份/
+修改前备份/
+*.zip
