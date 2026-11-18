@@ -20,3 +20,9 @@ JOJO G3与小猴皮皮SE需使用各自配套录音贴，按对应表绑定音�
 八大行星目录保存章节、图片、文字稿与排版文件；土星样章是部分制作文件依赖的相邻目录。部分脚本使用本机字体路径，换电脑时需调整。图片使用权限以原始来源为准。
 
 本仓库不包含API密钥、临时备份或二十四节气项目。
+
+## 网页点读书
+
+[在线阅读](https://little-astronaut-planets.xingya-shi.chatgpt.site) · [英语小课堂](https://little-astronaut-planets.xingya-shi.chatgpt.site/english.html)
+
+网页版源码及完整资源位于 [网页端](网页端/README.md)。

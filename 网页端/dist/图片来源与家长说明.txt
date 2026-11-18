@@ -1,0 +1,142 @@
+# 家长说明与图片来源
+
+## 读本与印刷
+
+全书59个A3横向阅读跨页，展开尺寸420×297毫米，中央对折后单页A4，共118个阅读页。目录使用PDF的跨页序号，各章页脚独立从1编号。本稿是阅读版，不是装订拼版，不含出血；印刷时使用实际尺寸。可先按行星分章打印，避免一次阅读过多。土星章节直接使用已确认的定稿。
+
+正文供亲子共读，数字可以分次读。小字说明与图像类型主要给大人看。不要求4岁孩子背诵倍数或理解全部术语。
+
+## 数字口径
+
+- 直径统一使用体积等效平均直径，不含行星环。NASA总表中一些直径是赤道直径，不直接混用。土星定稿116,500公里保持原有约数。
+- 地球体积和质量分别设为1，体积比依据体积或平均半径三次方计算。水星体积约0.056倍，质量约0.055倍，两者不同；海王星质量约17.1倍。
+- 质量是物质多少的物理量，体重与当地重力相关；书中的“重”是亲子语言，正式数字采用质量和密度。
+- 密度均为整颗行星的平均值，水的1克/立方厘米是科普约数，不代表任意温度下完全相同。密度大于水不表示能真的做“把行星放进水池”的实验。
+- 自转采用常用恒星周期的约数；水星58.6地球日、金星243地球日不能当成日出到日出的太阳日。水星太阳日约176地球日，金星约117地球日。地球自转约23.9小时，平均太阳日约24小时。
+- 巨行星自转周期随测量方法有差异，大气不同纬度还存在差异转动。天王星17.2小时沿用NASA常用数据口径，不表示所有测定方法的唯一精确值。
+- 赤道随自转移动的速度用π×赤道直径÷自转周期估算。它不是风速，也不表示所有纬度速度相同；有大气的巨行星采用1巴参考半径和整体周期作估算。
+- 平均公转速度与平均日心距离都是约数；日心距离按轨道半长轴的科普口径，不同轨道位置距离会变化。年、日和小时都使用地球单位。
+- 火卫一27公里、火卫二15公里是最长尺寸，不能与球形天体的平均直径直接混用。图片大小比较均分别缩放。
+- 太阳与行星轨道图只是示意，不按真实大小、距离、偏心率与当时位置绘制。地球章节单独标出地球，其他章节只画所需的两颗行星。
+- 不使用容易过期的巨行星卫星总数；只介绍本章涉及的具体卫星。天然卫星、行星与矮行星是不同分类。
+
+## 图像与科学解释
+
+所有天体影像均来自官方观测档案，不使用AI生成的天体照片。观测影像可能由多幅照片、滤色片、雷达或红外数据合成，不等同于单次相机快照。下列处理保留或明确说明：
+
+- 黑色背景在PDF排版层滤色融合，源图没有抠图重画；融合会影响最终色彩，书中颜色不能用于测量真实反射率或色度。
+- 地球Blue Marble 2002是观测数据合成；月球图PIA00405来自伽利略号1992年观测，不是克莱门汀号或LRO。
+- 金星主图PIA23791选用原档左侧版本，在PDF排版层裁切；另一个对比增强版本不重复摆在旁边。金星云图PIA00072经过滤色片与赋色处理。
+- 金星全球地形PIA00271是雷达数据映射球面的图；萨帕斯火山PIA00107是雷达与高程数据重建的科学视图，垂直尺度夸张，均不是可见光地面实拍。浓厚云层使得普通可见光相机难以直接看见全球地面。
+- 水星卡洛里盆地图PIA10383上的黄色虚线是人工边界标注；陡崖图是黑白观测影像。
+- 火星主图PIA00407是维京号观测拼接；水手峡谷PIA00003经过增强色处理。火卫二PIA11826原档包含两次观测，不代表有两颗火卫二。
+- 木卫一PIA02308、木卫三PIA00716为近似自然色；木卫二PIA19048重新处理以接近肉眼颜色，其中缺失区域按邻近类似地形补色；木卫四PIA03456为彩色观测拼接。
+- 天王星PIA18182与海王星PIA01492采用不同历史处理，不能直接比较两者真实蓝色的深浅。海王星经典深蓝影像经过处理以突出结构；现实两者颜色比这些图更接近。
+- 天王星、海王星的韦布图是近红外观测赋色，非肉眼颜色。海王星暗斑和木星大红斑的历史照片不代表当前尺寸或固定形态。
+- 七个新增章节的内部页面使用外部观测照片配结构文字，照片没有展示内部。内部描述来自科学模型与间接观测，尤其巨行星仍有不确定性，不画成已被拍到的内部照片。土星原有剖面保留简化模型与年份标注。
+
+## 点读
+
+全书204段文稿。ME、VE、EA、MA、JU、UR、NE为新增章节的内容前缀，土星沿用S01至S24；编号唯一。每页两处点读位，额外跨页追加四段。全书CSV已留JOJO G3及小猴皮皮SE的贴纸对应栏。
+
+当前交付校订文稿、对应表和纸面位置；部分音频已生成，当前暂停，笔端绑定尚未完成。请使用两支笔各自配套的录音贴：同一段旁白可分别绑定两套贴纸编号；不能默认两品牌的贴纸互通。实际录音、导入格式与绑定步骤以各自说明书为准。贴纸尺寸未知，纸面圆圈用于定位，实际打印前可按贴纸尺寸调整。
+
+## 数据与知识来源
+
+核对日期：2026年10月10日。原始网页、NASA图档元数据保存在“资料”目录，具体图片链接也保存在“图片来源.json”。
+
+### 水星
+
+- [NASA MERCURY Facts](https://science.nasa.gov/mercury/facts/)
+- [NASA MERCURY Detailed Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/mercuryfact.html)
+
+### 金星
+
+- [NASA VENUS Facts](https://science.nasa.gov/venus/facts/)
+- [NASA VENUS Detailed Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html)
+
+### 地球
+
+- [NASA EARTH Facts](https://science.nasa.gov/earth/facts/)
+- [NASA EARTH Detailed Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html)
+
+### 火星
+
+- [NASA MARS Facts](https://science.nasa.gov/mars/facts/)
+- [NASA MARS Detailed Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html)
+
+### 木星
+
+- [NASA JUPITER Facts](https://science.nasa.gov/jupiter/facts/)
+- [NASA JUPITER Detailed Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/jupiterfact.html)
+
+### 天王星
+
+- [NASA URANUS Facts](https://science.nasa.gov/uranus/facts/)
+- [NASA URANUS Detailed Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/uranusfact.html)
+
+### 海王星
+
+- [NASA NEPTUNE Facts](https://science.nasa.gov/neptune/facts/)
+- [NASA NEPTUNE Detailed Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/neptunefact.html)
+
+### 专题与任务
+
+- [NASA太阳系与行星分类](https://science.nasa.gov/solar-system/planets/)
+- [NASA地球与四季](https://science.nasa.gov/earth/facts/)
+- [NASA木星卫星](https://science.nasa.gov/jupiter/moons/)
+- [NASA火星卫星](https://science.nasa.gov/mars/moons/)
+- [NASA特里同](https://science.nasa.gov/neptune/moons/triton/)
+- [NASA信使号任务](https://science.nasa.gov/mission/messenger/)
+- [NASA水手2号](https://science.nasa.gov/mission/mariner-2/)
+- [NASA麦哲伦号](https://science.nasa.gov/mission/magellan/)
+- [NASA维京号](https://science.nasa.gov/mission/viking/)
+- [NASA火星探路者](https://science.nasa.gov/mission/mars-pathfinder/)
+- [NASA好奇号](https://science.nasa.gov/mission/msl-curiosity/)
+- [NASA毅力号](https://science.nasa.gov/mission/mars-2020-perseverance/)
+- [NASA伽利略号](https://science.nasa.gov/mission/galileo/)
+- [NASA朱诺号](https://science.nasa.gov/mission/juno/)
+- [NASA旅行者](https://science.nasa.gov/mission/voyager/)
+- [韦布天王星观测与完整署名](https://science.nasa.gov/asset/webb/uranus-nircam-image/)
+- [韦布海王星观测与完整署名](https://science.nasa.gov/asset/webb/neptune-close-up-nircam/)
+- 土星的知识、图片与审校来源沿用原定稿随附说明。
+
+## 图片原档索引
+
+- PIA15160：[PIA15160](https://images-assets.nasa.gov/image/PIA15160/PIA15160~orig.jpg)；；NASA。
+- PIA00343：[Jupiter](https://images-assets.nasa.gov/image/PIA00343/PIA00343~orig.jpg)；PIA00343；NASA/JPL/USGS。
+- PIA18182：[PIA18182](https://images-assets.nasa.gov/image/PIA18182/PIA18182~orig.jpg)；；NASA。
+- PIA01492：[PIA01492](https://images-assets.nasa.gov/image/PIA01492/PIA01492~orig.jpg)；PIA01492；NASA/JPL。
+- PIA00271：[Venus - Computer Simulated Global View of the Northern Hemisphere](https://images-assets.nasa.gov/image/PIA00271/PIA00271~orig.jpg)；PIA00271；NASA/JPL。
+- PIA01544：[Venus Cloud Tops Viewed by Hubble](https://images-assets.nasa.gov/image/PIA01544/PIA01544~orig.jpg)；PIA01544；NASA/JPL。
+- PIA01490：[South Polar View of Miranda](https://images-assets.nasa.gov/image/PIA01490/PIA01490~orig.jpg)；PIA01490；NASA/JPL/USGS。
+- PIA01384：[Jupiter Great Red Spot](https://images-assets.nasa.gov/image/PIA01384/PIA01384~orig.jpg)；PIA01384；NASA/JPL。
+- 水星盆地：[The Great Caloris Basin on Mercury](http://images-assets.nasa.gov/image/PIA10383/PIA10383~orig.jpg)；PIA10383；NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington/Brown University。
+- 水星陡崖：[Long Scarps on Mercury Tell of the Planet Unique History](https://images-assets.nasa.gov/image/PIA13477/PIA13477~orig.jpg)；PIA13477；NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington。
+- 金星橙光与紫外赋色合成：[Venus from Mariner 10](https://images-assets.nasa.gov/image/PIA23791/PIA23791~orig.jpg)；PIA23791；NASA/JPL-Caltech。
+- 金星火山：[Venus - 3-D Perspective View of Sapas Mons](https://images-assets.nasa.gov/image/PIA00107/PIA00107~orig.jpg)；PIA00107；NASA/JPL。
+- 地球极光：[Earth Observations taken by Expedition 30 crewmember](https://images-assets.nasa.gov/image/iss030e119777/iss030e119777~orig.jpg)；iss030e119777；JSC。
+- 奥林帕斯山：[Color Mosaic of Olympus Mons](https://images-assets.nasa.gov/image/PIA02982/PIA02982~orig.jpg)；PIA02982；NASA/JPL。
+- 水手峡谷：[水手峡谷](https://images-assets.nasa.gov/image/PIA00003/PIA00003~orig.jpg)；；NASA/JPL。
+- 火卫一：[Phobos from 6,800 Kilometers Color](https://images-assets.nasa.gov/image/PIA10368/PIA10368~orig.jpg)；PIA10368；NASA/JPL-Caltech/University of Arizona。
+- 火卫二：[Martian Moon Deimos in High Resolution](https://images-assets.nasa.gov/image/PIA11826/PIA11826~orig.jpg)；PIA11826；NASA/JPL-Caltech/University of Arizona。
+- 木卫一：[Global image of Io true color](https://images-assets.nasa.gov/image/PIA02308/PIA02308~orig.jpg)；PIA02308；NASA/JPL/University of Arizona。
+- 木卫二：[Europa Stunning Surface](https://images-assets.nasa.gov/image/PIA19048/PIA19048~orig.jpg)；PIA19048；NASA/JPL-Caltech/SETI Institute。
+- 木卫三：[Ganymede Color Global](https://images-assets.nasa.gov/image/PIA00716/PIA00716~orig.jpg)；PIA00716；NASA/JPL。
+- 木卫四：[Global Callisto in Color](https://images-assets.nasa.gov/image/PIA03456/PIA03456~orig.jpg)；PIA03456；NASA/JPL/DLR。
+- 海卫一：[Global Color Mosaic of Triton](https://images-assets.nasa.gov/image/PIA00317/PIA00317~orig.jpg)；PIA00317；NASA/JPL/USGS。
+- 火星：[Global Color Views of Mars](https://images-assets.nasa.gov/image/PIA00407/PIA00407~orig.jpg)；PIA00407；NASA/JPL/USGS。
+- 月球：[Earth Moon](https://images-assets.nasa.gov/image/PIA00405/PIA00405~orig.jpg)；PIA00405；NASA/JPL/USGS。
+- 地球：沿用土星定稿原图与原有来源说明。
+- 太阳：沿用土星定稿原图与原有来源说明。
+- 土星：沿用土星定稿原图与原有来源说明。
+- 天王星环：[天王星环](https://assets.science.nasa.gov/content/dam/science/missions/webb/science/2023/04/STScI-01GWQDPJTF1MY8ZGN4WBMWMACJ.png/jcr:content/renditions/Unannotated.png)；；NASA / ESA / CSA / STScI。
+- 海王星环：[海王星环](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2022/09/STScI-01GCVNDSA55PFHD0JP3JSEKAZ1.png?w=2000&fit=clip)；；NASA, ESA, CSA, STScI。
+- PIA00072：[PIA00072](https://images-assets.nasa.gov/image/PIA00072/PIA00072~orig.jpg)；；NASA/JPL。
+
+
+## 本轮整理（2026年10月10日）
+
+四个新增倾角跨页已移至第4—7跨页：低视角轨道、公转轨道侧视、自转轴内侧四颗、自转轴外侧四颗。各章节顺延，目录及书签已更新。
+金星PIA23791为橙光和紫外滤镜赋色合成，不是纯可见光实拍。书中使用源观测数据，赋色与重建图仍需按图注理解。
+完整校订语音稿见《全书点读语音稿.md》，配套表为《全书点读对应表.csv》。已有音频未重新生成，续制前按《语音稿修改与音频复核清单.csv》复核。
